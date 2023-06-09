@@ -1,0 +1,29 @@
+ASUS TUF A15
+Processeur : AMD Ryzen 5 3600 (3.6 GHz / 4.2 GHz) Carte Graphique : PNY GeForce GTX 1660 SUPER 6GB Twin Fan Ram : 8GB PNY DDR4 3200MHz Carte mère : Gigabyte A520M-K Stockage : PNY CS1030 NVMe SSD 250GB Alimentation : ABKONCORE TN500W 80+ Bronze Boitier : MARS GAMING MC-S2 FRGB Black
+
+
+
+
+GIGABYTE RTX 4080 GAMING OC
+Chipset graphique : NVIDIA GeForce RTX 4080 Taille mémoire vidéo : 16 Go Type de mémoire : GDDR6X Fréquence boostée : 1535 MHz Processeurs de flux : 9728 Sorties vidéo : HDMI Female (2.1) / 3xDisplayPort Female (1.4a) Consommation : 320 W Nombre d’écran(s) : 4
+
+Asus VG247Q1A | 24" FHD | 165Hz | 1ms
+24 pouces Full HD (1920 x 1080) Dalle VA Technologie AMD FreeSync Premium Taux de rafraîchissement maximal de 165 Hz (via DisplayPort) Technologie ELMB Temps de réponse de 1 ms (MPRT) Connecteurs : HDMI x 1, DisplayPort x 1
+
+
+WARFACE 1
+Processeur : AMD Ryzen 5 3600 (3.6 GHz / 4.2 GHz) CPU Cooler : CoolerMaster Hyper 212 Black Edition Carte Graphique : MSI GeForce RTX 3060 VENTUS 2X 12G OC Ram : ARKTEK 16Go (2x8Go) DDR4 3200MHz Carte Mère : ASUS PRIME A520M-A II Stockage : MSI SPATIUM M371 SSD NVme M.2 500GB
+
+
+Intel Core i7-11900K
+Le processeur Intel Core i7-11900K embarque 8 Coeurs et 16 threads accompagnés de 16 Mo de Cache. Il propose des performances de haute volée avec sa fréquence de base à 3.5 GHz et jusqu' à 5.3 GHz en mode Turbo
+
+
+MSI Raider GE67HX
+Processeur : Intel Core i9-12900HX (16-Cores / 5 GHz Turbo) Carte Graphique : RTX 3070 Ti 8GB GDDR6 Ecran : 15,6 " QHD 240Hz OLED / 100 % DCI-P3 Ram : 32 GB (2x16GB) DDR5 Stockage : 1 TB SSD M.2 NVMe Clavier : AZERTY gaming SteelSeries rétroéclairage RGB Microsoft Windows 11 Pro
+
+AORUS 15 XE5
+Processeur : Intel Core i7-12700H (6 Performance-Cores 4.7 GHz Turbo) 16 Go de mémoire DDR5 4800 MHz (Max 64 Go) Ecran : 15.6" QHD / Fréquence d'affichage de 165 Hz Puce graphique : RTX 3070 Ti Laptop 8 Go GDDR6 Stockage : SSD M.2 PCIe de 1 To + 1 slot M.2 PCIe libre Clavier gamer avec rétroéclairage RGB Fusion 2.0
+
+
+2779 line code :

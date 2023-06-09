@@ -1,0 +1,75 @@
+Cahier des charges 
+
+  
+
+Dans le cadre du développement de ces activités de vente, une boutique demande de développer un site web e-commerce E-SHOP. 
+
+Pour ce site un visiteur peut : 
+
+ 
+
+- Enregistrer et voir son profil 
+
+- Consulter la liste des produits 
+
+- Chercher un produit par son nom 
+
+ 
+
+Si un visiteur un compte valide il peut passer des commandes 
+
+I peut donner un avis vis-à-vis d'un produit  
+
+Sachant qu'un utilisateur est caractérisé par (nom, prénom, email, mot de passe, téléphone, état [0,1] (0 pour compte non validé par l'administration /1 pour un utilisateur validé). 
+
+  
+
+Dans I’ autre partie il y a l’'administrateur ou bien webmaster qui permet de gérer les produits, gérer les catégories, gérer le stock des produits et aussi valider les inscriptions des visiteurs et voir des statistiques concernant le site. 
+
+Un produit est caractérisé par (nom, description, prix, image). 
+
+Un produit appartient à une catégorie (nom, description). 
+
+  
+
+Un utilisateur validé peut commander un ou plusieurs produits qui seront enregistrés dans un panier par la suite un utilisateur peut valider le panier ou bien supprimer. 
+
+Identification des acteurs 
+
+On a distingué 2 acteurs : 
+
+  
+
+- Administrateur 
+
+  
+
+- Visiteur 
+
+ 
+
+Les classes : 
+
+Visiteur 
+
+Produit 
+
+Commande 
+
+Avis 
+
+Administrateur 
+
+Catégorie 
+
+Stock  
+
+Panier 
+
+
+https://1drv.ms/w/s!ArH15jTKlSPHgyFHu1qPchx_fqni?e=mtKelc
+https://www.solution1formatiktd.com/img/banner.jpg
+
+ 
+Description :
+Mon site e-commerce est une destination incontournable pour tous les amateurs de technologie à la recherche de matériel informatique, comme des ordinateurs portables, des ordinateurs de bureau, des composants informatiques, des périphériques et des accessoires. Avec une sélection soigneusement choisie de produits haut de gamme provenant de marques renommées, la site offre une expérience de magasinage en ligne pratique et agréable. Grâce à une interface conviviale, les clients peuvent facilement parcourir les produits, trouver les informations dont ils ont besoin et effectuer leur achat en quelques clics.
